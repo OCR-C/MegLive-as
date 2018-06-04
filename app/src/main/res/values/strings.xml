@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">活体Demo</string>
+    <string name="meglive_title">人脸活体检测Demo</string>
+    <string name="meglive_version">版本号：</string>
+    <string name="meglive_livenessBtn">活体检测</string>
+    <string name="meglive_auth_progress">正在联网授权中...</string>
+    <string name="meglive_auth_again">重新联网授权</string>
+    <string name="meglive_auth_failed">联网授权失败！请检查网络或找服务商</string>
+    <string name="meglive_returnbtn">返回首页</string>
+    <string name="meglive_liveness_again">重新验证活体</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
