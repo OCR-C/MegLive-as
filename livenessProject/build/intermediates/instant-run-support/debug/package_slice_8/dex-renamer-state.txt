@@ -1,0 +1,4 @@
+#Mon Jun 04 18:50:57 CST 2018
+base.0=/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

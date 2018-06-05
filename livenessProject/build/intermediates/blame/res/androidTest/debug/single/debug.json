@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/layout_liveness_layout.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_success.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_success.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_head_right.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_right.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_head.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/layout_liveness_detection_step.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_detection_step.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/anim_liveness_rightin.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_rightin.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable_liveness_head_pitch.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_head_pitch.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable_liveness_mouth_open_closed.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_mouth_open_closed.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_yaw.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_yaw.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_layout_head_mask.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_head_mask.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_eye_blink.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_eye_blink.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_bg_nothing.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg_nothing.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable_liveness_eye_open_closed.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_eye_open_closed.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable_liveness_head_yaw.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_head_yaw.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/layout_bottom_title_layout.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/layout/bottom_title_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_faceppinside.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_faceppinside.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/anim_liveness_leftout.xml.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_leftout.xml"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_layout_camera_mask.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_camera_mask.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_pitch_down.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_pitch_down.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_mouth_open.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_mouth_open.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_head_left.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_left.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_well_done.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_well_done.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_meglive_failed.mp3.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/meglive_failed.mp3"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_surfacemask.9.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_surfacemask.9.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_mouth.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_mouth.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_layout_bottom_tips.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_layout_bottom_tips.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_head_down.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_down.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_model.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/model"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_head_up.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_head_up.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_right.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_right.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_eye.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_eye.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/raw_livenessmodel.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/raw/livenessmodel"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_liveness_left.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/liveness_left.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_circle.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/circle.png"
+    },
+    {
+        "merged": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_liveness_phoneimage.png.flat",
+        "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/liveness_phoneimage.png"
+    }
+]

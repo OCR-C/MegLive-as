@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/dzc/Downloads/content-onlineauthsdktest-MegLive_android_20180321_25/demo/MegLive/LivenessProject/livenessLib/build/intermediates/bundles/debug/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "210"
+                    }
+                }
+            ]
+        }
+    ]
+}
